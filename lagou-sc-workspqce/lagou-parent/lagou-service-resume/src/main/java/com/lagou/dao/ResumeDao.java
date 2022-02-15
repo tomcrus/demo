@@ -1,4 +1,4 @@
-package com.lagou.dado;
+package com.lagou.dao;
 
 import com.lagou.pojo.Resume;
 import org.springframework.data.jpa.repository.JpaRepository;
